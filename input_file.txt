@@ -1,0 +1,9 @@
+create_account
+deposit 1 4000
+display_balance 1
+withdraw 1 100
+create_account
+withdraw 3 1000
+deposit 2 1000
+withdraw 5 1000
+display_bank_balance

@@ -37,7 +37,7 @@ git add bank_transactions.py test_bank.py
 
 git commit -m "Added bank script and tests"
 
-git push origin feature/bank-script
+git push origin main
 
 
 How i ran the script locally ? 
@@ -46,5 +46,5 @@ python3 filename input file name
 
  python3 bank_transactions.py input_file.txt
 
- 
+
 
